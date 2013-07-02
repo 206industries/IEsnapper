@@ -17,4 +17,4 @@ Usage
 * **Timers** Sane timeouts are used to wait for page load and page render. Override these with `-f` for the time to first byte and `-l` for rendering. Both timers are measured in milliseconds.
 * **Logging** Use `-v` for more verbose output
 
-[1]: https://github.com/downloads/andyoakley/IEsnapper/IEsnapper-1.0.zip
+[1]: https://github.com/downloads/206industries/IEsnapper/IEsnapper-1.0.zip
